@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "strataore",
+  "id": "moveyourore",
   "version": "${version}",
-  "name": "Strata Ore",
+  "name": "moveyourore",
   "description": "Customize underground ore generation with vanilla worldgen JSON.",
   "authors": [
     "Oshakuru"
@@ -11,7 +11,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.oshakuru.strataore.StrataOre"
+      "io.github.oshakuru.moveyourore.MoveYourOre"
     ]
   },
   "depends": {
